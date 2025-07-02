@@ -1,6 +1,6 @@
 <?php
 
-namespace Branzia\Tax\Database\Seeders;
+namespace Branzia\Shop\Database\Seeders;
 
 
 use Illuminate\Database\Seeder;

@@ -23,5 +23,6 @@ class ShopServiceProvider extends BranziaServiceProvider
     {
         parent::register();
     }
+
 }
 
